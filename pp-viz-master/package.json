@@ -1,0 +1,16 @@
+{
+  "name": "pp-viz-master",
+  "version": "1.0.0",
+  "description": "Visualizing the Paradise Papers dataset with Neo4j. See the blog post [here.](https://neo4j.com/blog/depth-graph-analysis-paradise-papers/)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
